@@ -1,3 +1,3 @@
-# markdown-portfolio
+# Kexin Sun | Digital Presence
 
 Kexin Sun's markdown version portfolio.
